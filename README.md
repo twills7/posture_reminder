@@ -1,4 +1,4 @@
-# Posture Reminder
+# Posture Reminder Chrome Extension
 
 ## Author
 
