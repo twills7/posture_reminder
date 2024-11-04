@@ -3,7 +3,7 @@ document.getElementById("alertButton").addEventListener("click", () => {
     const images = [
         "./bad_postures/posture_meme1.jpeg",
         "./bad_postures/posture_meme2.jpeg",
-        "./bad_postures/posture_meme3.jpeg",
+        "./bad_postures/posture_meme3.jpg",
         "./bad_postures/posture_meme4.jpeg",
         "./bad_postures/posture_meme5.jpeg",
         "./bad_postures/posture_meme6.jpeg"
